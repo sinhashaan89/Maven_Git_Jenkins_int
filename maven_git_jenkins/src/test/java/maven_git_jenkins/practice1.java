@@ -1,6 +1,7 @@
 package maven_git_jenkins;
 
 import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 
 public class practice1 {
 @Test
